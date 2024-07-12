@@ -7,15 +7,15 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Ram Dhakshna / Poomathi"
-subtitle: "See the world through my eyes!"
+subtitle: "Contact us : 9791680082 / 9789592307"
 author: "Ram Dhakshna"
 header:
  title: "Photography"
  subtitle: "by Ram Dhakshna / Poomathi"
 footer:
  name: "Hey there, we are team Photography Kanchipuram"
- bio: "We are a bunch or photographer's from a small town."
- github: "Photography takes an instant out of time, altering life by holding it still."
+ bio: "Wedding - Engagement - Babyshower - Birthday"
+ github: "A photograph keeps a moment from running away"
 web_design: ""
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
